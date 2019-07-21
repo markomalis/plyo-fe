@@ -4,7 +4,7 @@
   >
     <v-navigation-drawer
       v-model="visible"
-      absolute
+      app
       temporary
       dark
     >
@@ -20,7 +20,7 @@
         <v-list-tile
           v-for="item in links"
           :key="item.title"
-          @click=""
+          :href="item.href"
         >
           <v-list-tile-content>
             <v-list-tile-title>{{ item.title }}</v-list-tile-title>

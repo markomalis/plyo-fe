@@ -12,7 +12,7 @@
         </v-flex>
         <v-flex xs5 class="py-1">
           <v-img
-            src="demi.jpg"
+            src="/demi.jpg"
             height="125px"
             contain
           ></v-img>

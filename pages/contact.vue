@@ -5,11 +5,11 @@
       Deze combinatie van groepslessen zorgt ervoor dat je alle mogelijkheden van je lichaam (her)ontdekt en het optimale uit jouw bewegingespatroon haalt.
     </blockquote>
     <v-layout class="px-4" wrap justify-center>
-      <v-flex class="sm12 md6">
+      <v-flex class="sm12 md6 py-5">
         <v-img src="/kaart.png" aspect-ratio="1"></v-img>
       </v-flex>
-      <v-flex class="sm12 md6">
-        <v-layout class="px-4" wrap justify-center>
+      <v-flex class="sm12 md6 my-4">
+        <v-layout class="px-4" justify-center>
           <v-flex class="xs6">
             <div class="display-1 pb-3">Locatie</div>
             <div>Vlambloem 130</div>

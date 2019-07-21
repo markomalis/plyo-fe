@@ -25,7 +25,7 @@
       <v-btn
         icon
         class="hidden-md-and-up"
-        @click.stop="menuDrawer = !menuDrawer"
+        @click.stop="menuDrawer = false; menuDrawer = true"
       >
         <v-icon color="white">menu</v-icon>
       </v-btn>
