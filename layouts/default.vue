@@ -16,7 +16,7 @@
         href="/"
         class="home-button"
       >
-        <img src="/plyo-logo.png" />
+        <img src="/plyo-logo.png" style="width='85px';" />
       </v-btn>
       <v-spacer />
       <ToolbarNavs
